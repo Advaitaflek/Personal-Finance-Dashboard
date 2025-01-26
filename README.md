@@ -89,6 +89,11 @@ A secure and user-friendly personal finance dashboard that allows users to manag
 
 ---
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Contributors
 - Advait
 - Tarini
